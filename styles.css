@@ -1,0 +1,21 @@
+.carousel-item{
+    height: 400px;
+    background: brown;
+    position :relative;
+}
+.container{
+    position: absolute;
+    left:140px;
+    top:200px;
+   
+}
+.btn{
+    height:40px;
+    padding-top:5px;
+}
+.third{
+    position:absolute;
+   
+}
+  
+
